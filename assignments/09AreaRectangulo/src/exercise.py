@@ -1,5 +1,5 @@
-def area(base,altura):
-    return base*altura
+def area(ba,alt):
+    return ba*alt
 
 def main():
     #escribe tu código abajo de esta línea
